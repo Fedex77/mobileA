@@ -1,0 +1,79 @@
+* {
+    outline: dotted 1px red
+}
+body {
+    font-family: Helvetica, Arial;
+    font-size: 14px;
+    color: #414141;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+#logo {
+    background-color: orange;
+ 
+    overflow: hidden;
+}
+#logo > h2 {
+    color: #D9D9D9;
+}
+#logo > h1,
+#logo > h2 {
+    float: left;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px;
+}
+img {
+    max-width: 100%
+}
+#perfil {
+    padding: 0 10px;
+    overflow: hidden;
+}
+#perfil > a {
+    width: 50%;
+    display: block;
+    float: left;
+}
+#perfil > figcaption {
+    width: 50%;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
